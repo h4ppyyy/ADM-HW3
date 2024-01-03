@@ -4,4 +4,3 @@
 `Commanline.sh` is the script for the command line question.  
 `vocabulary.txt` vocabulary for the search query.   
 `inverted_index.json` inverted index for the seqarch query witht the tfidf.  
-`courses_tsv.tsv` table containing all courses.
